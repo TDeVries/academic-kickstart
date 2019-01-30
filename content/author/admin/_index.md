@@ -83,4 +83,4 @@ interests = [
 
 +++
 
-Terrance DeVries is a PhD student at the [Univeristy of Guelph](https://www.uoguelph.ca/), and is advised by [Graham Taylor](https://www.gwtaylor.ca/). His research interests include deep learning and computer vision, especially with regards to model interpretability and explainable AI. 
+Terrance DeVries is a PhD student at the [Univeristy of Guelph](https://www.uoguelph.ca/), advised by [Dr. Graham Taylor](https://www.gwtaylor.ca/). His research interests include deep learning and computer vision, especially with regards to model interpretability and explainable AI. 
