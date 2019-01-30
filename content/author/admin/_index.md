@@ -27,7 +27,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Engineering Systems and Computing"
+  course = "PhD in Systems Engineering"
   institution = "University of Guelph"
   year = "2016 - Present"
 
