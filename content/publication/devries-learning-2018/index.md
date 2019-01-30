@@ -8,5 +8,6 @@ selected = false
 publication = "*arXiv:1802.04865 [cs, stat]*"
 tags = ["Computer Science - Machine Learning", "Statistics - Machine Learning"]
 url_pdf = "http://arxiv.org/abs/1802.04865"
+url_custom = [{name = "Code", url = "https://github.com/uoguelph-mlrg/confidence_estimation"}]
 +++
 
