@@ -57,7 +57,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:terrance@uoguelph.ca" # To link to Contacts widget, use "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact" # To link to Contacts widget, use "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "linkedin"
