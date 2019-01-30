@@ -29,12 +29,12 @@ interests = [
 [[education.courses]]
   course = "PhD in Engineering Systems and Computing"
   institution = "University of Guelph"
-  year = 2016-Present
+  year = 2016 - Present
 
 [[education.courses]]
   course = "BEng in Mechanical Engineering"
   institution = "University of Guelph"
-  year = 2011-2016
+  year = 2011 - 2016
 
 # Social/Academic Networking
 #
