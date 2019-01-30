@@ -8,5 +8,6 @@ selected = false
 publication = "*arXiv:1708.04552 [cs]*"
 tags = ["Computer Science - Computer Vision and Pattern Recognition"]
 url_pdf = "http://arxiv.org/abs/1708.04552"
+url_custom = [{name = "Code", url = "https://github.com/uoguelph-mlrg/Cutout"}]
 +++
 
